@@ -40,11 +40,11 @@ public class Job {
         String lineSeparator = System.lineSeparator();
         String text = "Data not available";
         String output = lineSeparator + "ID: " + id + lineSeparator +
-                    "Name: "+ ((Objects.equals(getName(), ""))? text: name) + lineSeparator +
-                    "Employer: " + (Objects.equals(employer.getValue(), "") ? text: employer) + lineSeparator +
-                    "Location: " + (Objects.equals(location.getValue(),"") ? text: location) + lineSeparator +
-                    "Position Type: " + (Objects.equals(positionType.getValue(),"")? text:positionType) + lineSeparator +
-                    "Core Competency: " + (Objects.equals(coreCompetency.getValue(),"")? text: coreCompetency) + lineSeparator;
+                    "Name: "+ (name.equals("")? text: name) + lineSeparator +
+                    "Employer: " + (employer.getValue().equals("") ? text: employer) + lineSeparator +
+                    "Location: " + (location.getValue().equals("") ? text: location) + lineSeparator +
+                    "Position Type: " + (positionType.getValue().equals("")? text:positionType) + lineSeparator +
+                    "Core Competency: " + (coreCompetency.getValue().equals("")? text: coreCompetency) + lineSeparator;
         return output;
     }
 

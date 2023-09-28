@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ff47a6-ece6-4e2e-b777-6247aa1f282e" name="Changes" comment="" />
+    <list default="true" id="59ff47a6-ece6-4e2e-b777-6247aa1f282e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/launchcode/techjobs/oo/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/launchcode/techjobs/oo/Job.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +102,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JobTest.testToStringStartsAndEndsWithNewLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="techjobs-oo-java17-graded.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.launchcode.techjobs.oo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.launchcode.techjobs.oo" />
+      <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs.oo.JobTest" />
+      <option name="METHOD_NAME" value="testToStringStartsAndEndsWithNewLine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestTaskFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="techjobs-oo-java17-graded.test" />
       <extension name="coverage">
@@ -109,22 +128,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.launchcode.techjobs.oo" />
       <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs.oo.TestTaskFive" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTaskFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="techjobs-oo-java17-graded.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.launchcode.techjobs.oo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.launchcode.techjobs.oo" />
-      <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs.oo.TestTaskFour" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
@@ -183,10 +186,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.org.launchcode.techjobs.oo in techjobs-oo-java17-graded.test" />
+        <item itemvalue="JUnit.JobTest.testToStringStartsAndEndsWithNewLine" />
         <item itemvalue="JUnit.JobTest" />
         <item itemvalue="JUnit.TestTaskSix" />
         <item itemvalue="JUnit.TestTaskFive" />
-        <item itemvalue="JUnit.TestTaskFour" />
       </list>
     </recent_temporary>
   </component>
