@@ -51,9 +51,9 @@ public class JobTest {
                 new Location("Desert"), new PositionType("Quality control"),
                 new CoreCompetency(""));
 //        System.out.println(job);
-        char lineSeparator = System.lineSeparator().charAt(0);
-        assertEquals(lineSeparator,job.toString().charAt(0));
-        assertEquals(lineSeparator,job.toString().charAt(job.toString().length()-1));
+        String lineSeparator = System.lineSeparator();
+        assertTrue(job.toString().startsWith(lineSeparator));
+        assertTrue(job.toString().endsWith(lineSeparator));
     }
     @Test
     public void testToStringContainsCorrectLabelsAndData(){

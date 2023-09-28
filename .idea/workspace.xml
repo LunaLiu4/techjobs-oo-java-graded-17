@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59ff47a6-ece6-4e2e-b777-6247aa1f282e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/launchcode/techjobs/oo/JobField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/launchcode/techjobs/oo/Employer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/launchcode/techjobs/oo/Employer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/launchcode/techjobs/oo/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/launchcode/techjobs/oo/Job.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/launchcode/techjobs/oo/JobTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/launchcode/techjobs/oo/JobTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="59ff47a6-ece6-4e2e-b777-6247aa1f282e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +62,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.JobTest">
+  <component name="RunManager" selected="JUnit.org.launchcode.techjobs.oo in techjobs-oo-java17-graded.test">
     <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -106,7 +99,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JobTest.testJobsForEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTaskFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="techjobs-oo-java17-graded.test" />
       <extension name="coverage">
         <pattern>
@@ -115,14 +108,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.launchcode.techjobs.oo" />
-      <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs.oo.JobTest" />
-      <option name="METHOD_NAME" value="testJobsForEquality" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs.oo.TestTaskFive" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JobTest.testToStringContainsCorrectLabelsAndData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTaskFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="techjobs-oo-java17-graded.test" />
       <extension name="coverage">
         <pattern>
@@ -131,14 +124,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.launchcode.techjobs.oo" />
-      <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs.oo.JobTest" />
-      <option name="METHOD_NAME" value="testToStringContainsCorrectLabelsAndData" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs.oo.TestTaskFour" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JobTest.testToStringHandlesEmptyField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTaskSix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="techjobs-oo-java17-graded.test" />
       <extension name="coverage">
         <pattern>
@@ -147,25 +140,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="org.launchcode.techjobs.oo" />
-      <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs.oo.JobTest" />
-      <option name="METHOD_NAME" value="testToStringHandlesEmptyField" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JobTest.testToStringStartsAndEndsWithNewLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="techjobs-oo-java17-graded.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.launchcode.techjobs.oo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.launchcode.techjobs.oo" />
-      <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs.oo.JobTest" />
-      <option name="METHOD_NAME" value="testToStringStartsAndEndsWithNewLine" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs.oo.TestTaskSix" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -180,6 +157,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.launchcode.techjobs.oo in techjobs-oo-java17-graded.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="techjobs-oo-java17-graded.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.launchcode.techjobs.oo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.launchcode.techjobs.oo" />
+      <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs.oo.JobTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="techjobs-oo-java17-graded" />
       <shortenClasspath name="NONE" />
@@ -189,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.org.launchcode.techjobs.oo in techjobs-oo-java17-graded.test" />
         <item itemvalue="JUnit.JobTest" />
-        <item itemvalue="JUnit.JobTest.testToStringHandlesEmptyField" />
-        <item itemvalue="JUnit.JobTest.testToStringContainsCorrectLabelsAndData" />
-        <item itemvalue="JUnit.JobTest.testToStringStartsAndEndsWithNewLine" />
-        <item itemvalue="JUnit.JobTest.testJobsForEquality" />
+        <item itemvalue="JUnit.TestTaskSix" />
+        <item itemvalue="JUnit.TestTaskFive" />
+        <item itemvalue="JUnit.TestTaskFour" />
       </list>
     </recent_temporary>
   </component>
